@@ -1,0 +1,5 @@
+# Put files to be ignored here:
+sample.txt
+
+# Put directories or folders to be ignored here, syntax is /folder name:
+/Ignore Directory
