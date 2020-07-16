@@ -3,3 +3,5 @@ sample.txt
 
 # Put directories or folders to be ignored here, syntax is /folder name:
 /Ignore Directory
+
+# In the syntax, *.txt, it will withdraw all text files.
